@@ -1,0 +1,3 @@
+This is my first GitLens test.
+I am learning Git and GitHub.
+GitLens helps me understand file history.
