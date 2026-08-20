@@ -1,0 +1,7 @@
+1. **Prettier** changed my day-to-day typing and editing experience the most because it automatically formats my code. It keeps indentation, spacing, and overall code structure clean, which saves time and makes the code easier to read.
+
+2. **C/C++ Extension and Prettier** are mainly related to the code itself. The C/C++ Extension helps with syntax, errors, IntelliSense, and debugging, while Prettier focuses on formatting. **GitLens** is mainly about code history and changes, and **Live Share** is mainly for collaboration.
+
+3. I would keep **GitLens and Prettier** enabled for almost every project because they are useful for managing and maintaining code. I would use the **C/C++ Extension** specifically for C and C++ projects, while other language-specific extensions can be enabled when working with those languages.
+
+4. **Live Share** makes pair programming more interactive than normal screen sharing. With screen sharing, one person usually controls the computer while the other watches and gives suggestions. With Live Share, both people can work on the same project, edit code, navigate files, and solve problems together in real time.
