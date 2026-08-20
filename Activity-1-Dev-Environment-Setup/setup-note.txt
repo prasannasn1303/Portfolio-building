@@ -1,0 +1,7 @@
+I installed VS Code and the C/C++ extension for programming in C.
+I also installed MinGW-w64 and configured GCC for use in the terminal.
+Initially, I faced a problem where the gcc command was not recognized.
+I resolved the issue by adding the MinGW bin folder to the system PATH.
+After restarting VS Code, I verified the installation using gcc --version.
+I successfully compiled hello.c and ran the program to display Hello, World!.
+The setup note was added to my GitHub portfolio repository.
